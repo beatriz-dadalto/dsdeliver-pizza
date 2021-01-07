@@ -57,5 +57,15 @@ public class OrderService {
 		order = repository.save(order);
 		return new OrderDTO(order);
 	}
+	
+	@Transactional
+	public OrderDTO setDelivered(Long id) {
+		// como faço para alterar um registro?
+		// primeiro darei um getOne() para instanciar um obj monitorado pelo JPA
+		Order order = repository.getOne(id);
+		order.setStatus(OrderStatus.DELIVERED);
+		order = repository.save(order);
+		return new OrderDTO(order);
+	}
 
 }
