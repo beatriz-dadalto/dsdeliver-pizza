@@ -14,3 +14,12 @@ export type OrderLocationData = {
   longitude: number;
   address: string;
 };
+
+type ProductId = {
+  id: number;
+};
+
+// enviar para o backend para criar o pedido
+export type OrderPayload = {
+  products: ProductId[];
+} & OrderLocationData;
