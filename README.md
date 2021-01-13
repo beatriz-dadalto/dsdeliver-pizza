@@ -31,12 +31,19 @@
 
 <img alt="Ver Site do projeto" title="Ver Site do projeto" src="https://github.com/biacoelho/dsdeliver-pizza/blob/main/SDS2_Pizzaria.png" width="680px" />
 
-# [Versão Web do projeto] Clique [aqui](https://dsdelivery-biacoelho.netlify.app/) para ver :fire:
+# [Versão Web] Clique [aqui](https://dsdelivery-biacoelho.netlify.app/) para ver
 
 
 <img alt="Ver Site do projeto" title="Ver Site do projeto" src="https://github.com/biacoelho/dsdeliver-pizza/blob/main/dsdelivery-biacoelho-demo.gif" width="680px" />
 
-# Para funcionar em seu PC, deve ter instalado:
+
+# [APK Mobile] [Clique aqui](https://drive.google.com/file/d/1WBdsea3tuI639k2LqqnC_SlJYg69tZCA/view?usp=sharing) para baixar e instale no seu celular android
+
+
+## Para executar o código da versão mobile pelo computador:
+
+- Deve ter instalado no computador:
+
 [Node](https://nodejs.org/en/)
 
 [Java JDK 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) (versão 11 LTS)
@@ -46,9 +53,6 @@
 [Editor VSCODE](https://code.visualstudio.com/Download) (ou outro editor de sua preferência)
 
 
-
-
-# [Versão Mobile do projeto] Como baixar e instalar
 
 ***Instale no seu celular o aplicativo Expo para você conseguir executar a versão mobile desse projeto***
 
