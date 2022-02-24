@@ -31,7 +31,7 @@
 
 <img alt="Ver Site do projeto" title="Ver Site do projeto" src="https://github.com/biacoelho/dsdeliver-pizza/blob/main/SDS2_Pizzaria.png" width="680px" />
 
-# [Versão Web] Clique [aqui](https://dsdelivery-biacoelho.netlify.app/) para ver
+# [Versão Web] Clique [aqui](https://dsdelivery-beatrizdalto.netlify.app/) para ver
 
 
 <img alt="Ver Site do projeto" title="Ver Site do projeto" src="https://github.com/biacoelho/dsdeliver-pizza/blob/main/dsdelivery-biacoelho-demo.gif" width="680px" />
